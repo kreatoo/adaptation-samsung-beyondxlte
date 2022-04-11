@@ -1,4 +1,0 @@
-deb http://droidian-libinput.repo.droidian.org/bullseye-keypad-slide/ bullseye main
-deb http://droidian-wlroots.repo.droidian.org/bullseye-refactor-keypad-slide/ bullseye main
-deb http://droidian-phoc.repo.droidian.org/bullseye-forward-switch-events/ bullseye main
-deb http://droidian-phosh.repo.droidian.org/bullseye-keypad-slide-lights/ bullseye main
